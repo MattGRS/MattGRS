@@ -1,12 +1,12 @@
 ## Bem Vindos ao meu GitHub ✨ <a href="https://linktr.ee/mathttps_" target="_blank"><img align="right" alt="me icon" height="190" width="190" src="me-icon.png"></a>
 </br>
-<ul style="list-style-type: none;">
-    <li>► ♐ Me chamo Matheus. tenho 26 anos e sou pai de 3 gatos;</li>
-    <li>► 🌐 Técnico em desenvolvimento de sistemas para Web;</li>
-    <li>► 📚 Estudo programação há 3 anos;</li>
-    <li>► 💡 Gosto de aprender coisas novas e aplicar no dia a dia;</li>
-    <li>► 🕶 Nas horas vagas, gosto de ler, jogar e assistir filmes e séries;</li>
-    <li>► ☕ Quer bater um papo? Me chama para tomar um café!</li>
+<ul style="list-style-type: circle;">
+    <li>♐ Me chamo Matheus. tenho 26 anos e sou pai de 3 gatos;</li>
+    <li>🌐 Técnico em desenvolvimento de sistemas para Web;</li>
+    <li>📚 Estudo programação há 3 anos;</li>
+    <li>💡 Gosto de aprender coisas novas e aplicar no dia a dia;</li>
+    <li>🕶 Nas horas vagas, gosto de ler, jogar e assistir filmes e séries;</li>
+    <li>☕ Quer bater um papo? Me chama para tomar um café!</li>
 </ul>
 
 </br>
