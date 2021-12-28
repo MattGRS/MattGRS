@@ -1,0 +1,41 @@
+## Bem Vindos ao meu GitHub ✨ <a href="https://linktr.ee/mathttps_" target="_blank"><img align="right" alt="me icon" height="190" width="190" src="me-icon.png"></a>
+</br>
+<ul style="list-style-type: none;">
+    <li>► ♐ Me chamo Matheus. tenho 26 anos e sou pai de 3 gatos;</li>
+    <li>► 🌐 Técnico em desenvolvimento de sistemas para Web;</li>
+    <li>► 📚 Estudo programação há 3 anos;</li>
+    <li>► 💡 Gosto de aprender coisas novas e aplicar no dia a dia;</li>
+    <li>► 🕶 Nas horas vagas, gosto de ler, jogar e assistir filmes e séries;</li>
+    <li>► ☕ Quer bater um papo? Me chama para tomar um café!</li>
+</ul>
+
+</br>
+
+<div>
+    <a href="https://github.com/CodeMathttps">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMathttps&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeMathttps&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </a>
+</div>
+</br>
+
+### No momento estudando:
+</br>
+
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+
+</br>
+
+<img align="right" alt="me icon" height="150" width="150" src="https://tenor.com/view/cat-typing-fast-funny-cute-gif-13043586.gif"/>
+
+### Contato
+
+</br>
+<div>
+    <a href = "mailto:santos.matheusgr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/santosmatheusgr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    <a href="https://linktr.ee/mathttps_" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a>   
+</div>
