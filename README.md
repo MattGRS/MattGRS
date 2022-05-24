@@ -29,7 +29,7 @@
 </div>
 </br>
 
-<img align="right" alt="me icon" height="150" width="150" src="https://tenor.com/view/cat-typing-fast-funny-cute-gif-13043586.gif"/>
+<img align="left" alt="me icon" height="150" width="150" src="https://tenor.com/view/cat-typing-fast-funny-cute-gif-13043586.gif"/>
 
 ### Contato
 
