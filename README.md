@@ -1,7 +1,7 @@
 ## Bem Vindos ao meu GitHub ✨ <a href="https://linktr.ee/mathttps_" target="_blank"><img align="right" alt="me icon" height="190" width="190" src="me-icon.png"></a>
 </br>
 <ul style="list-style-type: circle;">
-    <li>♐ Me chamo Matheus. tenho 26 anos e sou pai de 3 gatos;</li>
+    <li>♐ Me chamo Matheus. tenho 28 anos e sou pai de 4 gatos;</li>
     <li>🌐 Técnico em desenvolvimento de sistemas para Web;</li>
     <li>📚 Estudo programação há 3 anos;</li>
     <li>💡 Gosto de aprender coisas novas e aplicar no dia a dia;</li>
