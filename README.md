@@ -3,7 +3,7 @@
 <ul style="list-style-type: circle;">
     <li>♐ Me chamo Matheus. tenho 28 anos e sou pai de 4 gatos;</li>
     <li>🌐 Técnico em desenvolvimento de sistemas para Web;</li>
-    <li>📚 Estudo programação há 3 anos;</li>
+    <li>📚 Estudo programação há 5 anos;</li>
     <li>💡 Gosto de aprender coisas novas e aplicar no dia a dia;</li>
     <li>🕶 Nas horas vagas, gosto de ler, jogar e assistir filmes e séries;</li>
     <li>☕ Quer bater um papo? Me chama para tomar um café!</li>
