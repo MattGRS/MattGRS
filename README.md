@@ -1,10 +1,10 @@
-## Bem Vindos ao meu GitHub ✨ <a href="https://linktr.ee/mathttps_" target="_blank"><img align="right" alt="me icon" height="190" width="190" src="me-icon.png"></a>
+## Bem Vindos ao meu GitHub ✨ <a href="https://linktr.ee/mathttps_" target="_blank"><img align="right" alt="me icon" height="250" width="190" src="me-icon.png"></a>
 </br>
 <ul style="list-style-type: circle;">
-    <li>♐ Me chamo Matheus. tenho 30 anos e sou pai de 4 gatos;</li>
+    <li>♐ Me chamo Matheus, tenho 30 anos e sou pai de 4 gatos;</li>
     <li>🌐 Técnico em desenvolvimento de sistemas para Web;</li>
     <li>📚 Estudo programação há 7 anos;</li>
-    <li>💻 Trabalho como desenvolvedor .Net há 6 anos</li>
+    <li>💻 Trabalho como desenvolvedor .Net há 6 anos;</li>
     <li>💡 Gosto de aprender coisas novas e aplicar no dia a dia;</li>
     <li>🕶 Nas horas vagas, gosto de ler, jogar e assistir filmes e séries;</li>
     <li>☕ Quer bater um papo? Me chama para tomar um café!</li>
