@@ -12,12 +12,12 @@
 
 </br>
 
-<div>
+<!--<div>
     <a href="https://github.com/MattGRS">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattGRS&layout=compact&langs_count=7"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MattGRS&show_icons=true&include_all_commits=true&count_private=true"/>
     </a>
-</div>
+</div>-->
 </br>
 
 ### No momento estudando:
